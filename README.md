@@ -7,6 +7,10 @@ SparkFun Inventor's Kit Projects
 
 The SparkFun Inventor’s Kit (SIK) is a great starting place for learning about electronics, programming, and physical computing. We can combine some of the concepts found in the SIK Guide to make our own projects. In this tutorial, we will make a keyboard using parts found in the SIK v3.3.
 
+Documentation
+--------------
+* **[Project Guide](https://learn.sparkfun.com/tutorials/sik-keyboard-instrument)** - Project Guide for SIK based keyBoard instrument project.
+
 License Information
 -------------------
 
